@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamsujanstha
-- 👀 I’m interested in Coding, reading books and travelling or so.
-- 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on MERN project
+- 👋 Hi, I’m @iamsujanstha from Nepal but born and brought up in India.
+- 👀 I’m interested in Coding, Reading books and Travelling or so.
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 Your can reach me on LinkedIn https://www.linkedin.com/in/tlsujank/
 
 <!---
