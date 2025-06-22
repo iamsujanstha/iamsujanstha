@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsujanstha from Nepal but born and brought up in India.
 - 👀 I’m interested in Coding, Reading books and Travelling or so.
-- 📫 Your can reach me on https://sujankshrestha.com.np/ or LinkedIn https://www.linkedin.com/in/tlsujank/
+- 📫 You can reach me on https://sujankshrestha.com.np/ or LinkedIn https://www.linkedin.com/in/tlsujank/
 - JavaScript || ReactJS || NodeJS || Typescript || Scss || NextJS
 
 <!---
